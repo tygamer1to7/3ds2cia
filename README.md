@@ -10,4 +10,5 @@
 3. Run "sh ./3DS-to-CIA.sh"
   1. If the sh does not work, run "chmod 755 ./3DS-to-CIA.sh"
   2. If python3 throws an error, run "chmod 755 ./BIN/3dsconv.py"
-### Enjoy!
+### Remember to read "README FIRST.txt"!
+#### Enjoy!
