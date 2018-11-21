@@ -1,1 +1,0 @@
-python3 ./BIN/3dsconv.py --overwrite --boot9="./BIN/boot9.bin" --output="./CIA" "3DS/*.3ds"
